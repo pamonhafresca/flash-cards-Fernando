@@ -1,23 +1,34 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Hitoria',
+    'Quem foi o primeiro presidente do Brasil??',
+    'Marechal Deodoro da Fonseca'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual é a capital do Brasil?',
+    'Brasilia'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Ciencias',
+    'Qual é o estado da água a 100°C?',
+    'Vapor ou gás'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Artes',
+    'Quem pintou a Mona Lisa?',
+    'Leonardo da Vinci'
+)
+criaCartao(
+    'matematica',
+    'Quanto é 5 + 3?',
+    '8'
+)
+
+criaCartao(
+    'matematica',
+    'Quantos lados tem um triângulo?',
+    '3' 
 )
